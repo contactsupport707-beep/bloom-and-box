@@ -1,0 +1,6 @@
+{
+  "name": "Bloom & Box",
+  "description": "A premium and luxury gift hamper brand showcasing curated items, custom hamper design, dynamic global business setup, and an AI-powered personalized gifting advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
